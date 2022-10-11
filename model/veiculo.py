@@ -1,6 +1,7 @@
 from datetime import date
 
 
+
 class veiculo:
     def __init__(self, 
                  CodCarro:int=None, 
